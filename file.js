@@ -2,7 +2,10 @@ let sText = `Lorem Ipsum is simply dummy text of the printing and typesetting in
 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but 
 also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets 
 containing Lorem Ipsum passages, and more recently with desktop publishing 
-software like Aldus PageMaker including versions of Lorem Ipsum`;
+software like Aldus PageMaker including versions of Lorem Ipsum !!!!`;
+
+console.log("Extra Text");
+
 for (let i = 0; i < 5; i++) {
   console.log(sText);
 }
