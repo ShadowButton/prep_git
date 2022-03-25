@@ -1,2 +1,2 @@
-let name = "Git Course";
-console.log("Hello World:", name);
+let sName = "Git Course";
+console.log("Hello World:", sName);
